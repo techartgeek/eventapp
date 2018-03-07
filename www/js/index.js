@@ -23,7 +23,7 @@ var app = {
 
         console.log('Received Event: ' + id);
         
-        alert(camera);
+        alert('Hi' + camera + '!');
     }
 };
 
