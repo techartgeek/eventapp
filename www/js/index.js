@@ -23,7 +23,9 @@ var app = {
 
         console.log('Received Event: ' + id);
         
-        navigator.navigation.alert(navigator.navigation, function(){}, 'Dialogs Test', 'Done');
+        alert(navigator);
+        alert(navigator.camera);
+        alert(navigator.navigation);
     }
 };
 
