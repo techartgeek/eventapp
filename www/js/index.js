@@ -23,9 +23,7 @@ var app = {
 
         console.log('Received Event: ' + id);
         
-        alert(navigator);
-        alert(navigator.camera);
-        alert(navigator.navigation);
+        alert(device.platform);
     }
 };
 
