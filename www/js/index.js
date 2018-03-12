@@ -3,7 +3,7 @@ var app = {
         document.addEventListener('deviceready', this.onDeviceReady.bind(this), false);
     },
     onDeviceReady: function () {
-        window.location = "http://192.168.1.7:3000";
+        window.location = "http://cxe.corp.adobe.com:8080";
     }
 };
 
