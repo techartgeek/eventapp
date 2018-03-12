@@ -28,4 +28,5 @@
     <plugin name="cordova-plugin-dialogs" spec="^2.0.1" />
     <plugin name="cordova-plugin-battery-status" spec="^2.0.1" />
     <plugin name="cordova-plugin-camera" spec="^2.4.1" />
+    <plugin name="cordova-plugin-geolocation" spec="^4.0.1" />
 </widget>
